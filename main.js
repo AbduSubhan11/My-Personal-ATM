@@ -29,7 +29,7 @@ if (firstMessage.First === myPin) {
         ]);
         myBalance -= amountAns.UserAmount;
         console.log(`This is your current balance ${myBalance}`);
-        if (answer.option <= amountAns) {
+        if (answer.option <= amountAns.UserAmount) {
             console.log("You have insufficient balance please recharge your account");
         }
     }

@@ -1,6 +1,6 @@
 {
-  "name": "@abdusubhan/my-personal-cli-atm",
-  "version": "1.0.2",
+  "name": "@abdusubhan/personal-cli-atm",
+  "version": "1.0.3",
   "description": "",
   "main": "main.js",
   "type": "module",
